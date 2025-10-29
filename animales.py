@@ -7,6 +7,7 @@ def mostrar_animales():
         "Perro",
         "Gato",
         "Loro",
+        "Tortuga",
 	"Pato"
     ]
     for a in animales:
